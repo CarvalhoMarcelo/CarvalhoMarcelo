@@ -1,10 +1,10 @@
-### Bem vindo ao meu GitHub!
-#### Não tem muita coisa, afinal o tempo é curto, e o trabalho é muito, mas tem o que tem.
+### Welcome to my GitHub!
+#### There is not much to see since the time is short and the work amount is huge, but that it's me.
 </br>
 
 ##
 
-#### Sistemas que costumo usar:
+#### Operation Systems that I usally work:
 
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 </br>
